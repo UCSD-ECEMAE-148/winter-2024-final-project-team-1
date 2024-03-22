@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Stoplight, Streetsign and Person Detection </h1>
+<h1 align="center">Autonomous Drifting </h1>
 
 <!-- PROJECT LOGO -->
 <br />
