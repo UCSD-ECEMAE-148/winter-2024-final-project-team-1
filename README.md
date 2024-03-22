@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection">
+  <a href="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/tree/main">
     <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/UCSDLogo_JSOE_BlueGold_0_0.png" alt="Logo" width="400" height="100">
   </a>
 <h3>MAE-ECE 148 Final Project</h3>
