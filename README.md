@@ -83,7 +83,7 @@ The goal of our final project was to train our car to autonomously drift.  In ad
 | GPS Mount | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/GPSMount.png" width="370" height="400" /> | Seth
 | Adaptors For Wheels | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/WheelAdapters.png" width="400" height="250" /> | Seth
 | Tires For Wheels | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/Tires.png" width="380" height="300" /> | Seth
-| Acrylic Base | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/AcrylicBase.png" width="300" height="300" /> | Justin
+| Acrylic Base | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/AcrylicBase.png" width="400" height="200" /> | Justin
 
 
 
