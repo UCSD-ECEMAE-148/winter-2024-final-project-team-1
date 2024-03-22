@@ -18,7 +18,25 @@ Team 1 Winter 2024
 
 
 <!-- TABLE OF CONTENTS -->
-
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#team-members">Team Members</a>
+    </li>
+    <li><a href="#final-project">Final Project</a></li>
+      <ul>
+        <li><a href="#final-project-documentation">Final Project Documentation</a></li>
+      </ul>
+    <li><a href="#robot-design">Robot Design</a></li>
+      <ul>
+        <li><a href="#mechanical-design">Mechanical Design</a></li>
+        <li><a href="#electronic-hardware">Electronic Hardware</a></li>
+      </ul>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 
 <!-- TEAM MEMBERS -->
