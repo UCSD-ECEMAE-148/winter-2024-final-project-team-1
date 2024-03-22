@@ -40,10 +40,10 @@ Team 1 Winter 2024
 The goal of our final project was to train our car to autonomously drift.  In addition to using the OAKD Lite Camera, we integrated an IMU sensor into the DonkeyCar framework to train our car.
 
 ### Primary Goals:
-1) Autonomously drifting around a corner
+1) Modify car for drifting: rear wheel drive, upgrade suspension system, change out wheels
 2) Integrating an IMU into the DonkeyCar framework to read data from the sensor in order to train a model 
 
-#### Goal : (Insert Video)
+#### Autonomous Drifting : (Insert Video)
 
 
 
@@ -52,6 +52,47 @@ The goal of our final project was to train our car to autonomously drift.  In ad
 * [Final Project Proposal](https://drive.google.com/file/d/1oSwgIkiHx3t4BQ_cxLm2ZbBmvrU56_2j/view?usp=sharing)
 * [Final Project Update 3/7](https://docs.google.com/presentation/d/1isKjaOL28nRso7TQlT29QjokpVWHbEqB3DTJVeYga64/edit?usp=sharing)
 * [Final Project Update 3/14](https://docs.google.com/presentation/d/1QSHOZ-a3gA7jtG-dcgdHc4KCrVCbHbBCUfhCX-5B-9E/edit?usp=sharing)
+
+<!-- Robot Design -->
+## Robot Design
+
+#### Mechanical Design
+
+| Part | CAD Model | Designer |
+|------|--------------|------------|
+| Adjustable Camera Mount | <img src="" width="300" height="300" /> | Seth
+| GPS Mount | <img src="" width="300" height="400" /> | Seth
+| Adaptors For Wheels | <img src="" width="300" height="400" /> | Seth
+| Tires For Wheels | <img src="" width="300" height="400" /> | Seth
+| Acrylic Base | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/2b4e5f76-f76d-4184-8922-512b867e38bc" width="300" height="300" /> | Justin
+
+
+
+
+#### Electronic Hardware
+Our team used only the electronic components given to us. In particular, we focused primarily on the OAK-D camera, Jetson NANO and the GNSS board (only used for the 3 GPS Autonomous Laps). When assembling the circuit, we used the following circuit diagram (given by the TAs of the class):
+<div align="center">
+    <img src="images\Circuit Diagram.png">
+</div>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+**Credited Code Examples:**
+* [Traffic light example Git](https://github.com/HevLfreis/TrafficLight-Detector/blob/master/src/main.py)
+* [DepthAI Git](https://github.com/luxonis/depthai)
+* [VESC Object Drive Folder](https://drive.google.com/drive/folders/1SBzChXK2ebzPHgZBP_AIhVXJOekVc0r3)
+* [DonkeyCar Framework](https://docs.donkeycar.com/guide/host_pc/setup_windows/)
+
+*Special thanks to Professor Jack Silberman, and TAs Kishore Nukala and Moises Lopez (WI23), and to all our amazing classmates of Winter 2023*
+
+<!-- CONTACT -->
+## Contact
+
+* Hariz Megat Zariman - hzariman@gmail.com | mqmegatz@ucsd.edu
+* Arjun Naageshwaran - arjnaagesh@gmail.com | anaagesh@ucsd.edu
+* Arturo Amaya - a1amaya@ucsd.edu | aramaya@ucsd.edu
 
 
 <!-- MARKDOWN TEMPLATE INFORMATION -->
