@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection">
-    <img src="images\UCSDLogo_JSOE_BlueGold.png" alt="Logo" width="400" height="100">
+    <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/UCSDLogo_JSOE_BlueGold_0_0.png" alt="Logo" width="400" height="100">
   </a>
 <h3>MAE-ECE 148 Final Project</h3>
 <p>
@@ -60,10 +60,10 @@ The goal of our final project was to train our car to autonomously drift.  In ad
 
 | Part | CAD Model | Designer |
 |------|--------------|------------|
-| Adjustable Camera Mount | <img src="" width="300" height="300" /> | Seth
-| GPS Mount | <img src="" width="300" height="400" /> | Seth
-| Adaptors For Wheels | <img src="" width="300" height="400" /> | Seth
-| Tires For Wheels | <img src="" width="300" height="400" /> | Seth
+| Adjustable Camera Mount | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/CameraMount.png" width="300" height="300" /> | Seth
+| GPS Mount | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/GPSMount.png" width="300" height="400" /> | Seth
+| Adaptors For Wheels | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/WheelAdapters.png" width="300" height="400" /> | Seth
+| Tires For Wheels | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/Tires.png" width="300" height="400" /> | Seth
 | Acrylic Base | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/2b4e5f76-f76d-4184-8922-512b867e38bc" width="300" height="300" /> | Justin
 
 
