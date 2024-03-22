@@ -27,7 +27,7 @@ Team 1 Winter 2024
     <li><a href="#final-project">Final Project</a></li>
       <ul>
         <li><a href="#final-project-documentation">Final Project Documentation</a></li>
-        <li><a href="#autonomous-drifting">Autonomous Drifting</a></li>
+        <li><a href="#autonomous-drifting">Autonomous Drifting: (Insert Video)</a></li>
       </ul>
     <li><a href="#robot-design">Robot Design</a></li>
       <ul>
@@ -62,7 +62,7 @@ The goal of our final project was to train our car to autonomously drift.  In ad
 1) Modify car for drifting: rear wheel drive, upgrade suspension system, change out wheels
 2) Integrating an IMU into the DonkeyCar framework to read data from the sensor in order to train a model 
 
-#### Autonomous Drifting : (Insert Video)
+#### Autonomous Drifting: (Insert Video)
 
 
 
