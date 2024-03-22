@@ -72,7 +72,7 @@ The goal of our final project was to train our car to autonomously drift.  In ad
 #### Electronic Hardware
 Our team used only the electronic components given to us. In particular, we focused primarily on the OAK-D camera, Jetson NANO and the GNSS board (only used for the 3 GPS Autonomous Laps). When assembling the circuit, we used the following circuit diagram (given by the TAs of the class):
 <div align="center">
-    <img src="images\Circuit Diagram.png">
+    <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-1/blob/main/images/MAE_148_Circuit_Diagram.png">
 </div>
 
 
@@ -90,9 +90,10 @@ Our team used only the electronic components given to us. In particular, we focu
 <!-- CONTACT -->
 ## Contact
 
-* Hariz Megat Zariman - hzariman@gmail.com | mqmegatz@ucsd.edu
-* Arjun Naageshwaran - arjnaagesh@gmail.com | anaagesh@ucsd.edu
-* Arturo Amaya - a1amaya@ucsd.edu | aramaya@ucsd.edu
+* Seth Durbin - sdurbin@ucsd.edu
+* Justin Kwaak - jukwak@ucsd.edu
+* John Liu - jol037@ucsd.edu
+* Patrick Choe - Patrickychoe@gmail.com
 
 
 <!-- MARKDOWN TEMPLATE INFORMATION -->
