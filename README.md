@@ -97,7 +97,7 @@ Our team used only the electronic components given to us. In particular, we focu
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-* Nikita's Razor IMU Code(https://github.com/NikitaB04/razorIMU_9dof/blob/main/imu.py)
+* [Nikita's Razor IMU Code](https://github.com/NikitaB04/razorIMU_9dof/blob/main/imu.py)
 
 Special thanks to Professor Jack Silberman, and our TA Arjun Naageshwaran, and to all our amazing classmates of Winter 2024
 
