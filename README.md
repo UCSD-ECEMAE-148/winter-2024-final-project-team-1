@@ -56,7 +56,7 @@ Team 1 Winter 2024
 <!-- Final Project -->
 ## Final Project
 
-The goal of our final project was to train our car to autonomously drift.  In addition to using the OAKD Lite Camera, we integrated an IMU sensor into the DonkeyCar framework to train our car.
+The goal of our final project was to train our car to autonomously drift.  In addition to using the OAKD Lite Camera, we integrated a Razor IMU into the DonkeyCar framework to train our car.
 
 ### Primary Goals:
 1) Modify car for drifting: rear wheel drive, upgrade suspension system, change out wheels
@@ -97,6 +97,7 @@ Our team used only the electronic components given to us. In particular, we focu
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+* Nikita's Razor IMU Code(https://github.com/NikitaB04/razorIMU_9dof/blob/main/imu.py)
 
 Special thanks to Professor Jack Silberman, and our TA Arjun Naageshwaran, and to all our amazing classmates of Winter 2024
 
