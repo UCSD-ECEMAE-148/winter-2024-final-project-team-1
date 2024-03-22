@@ -48,7 +48,7 @@ Team 1 Winter 2024
 <h4>Team Member Major and Class </h4>
 <ul>
   <li>Seth Durbin - MAE Ctrls & Robotics (MC34) - Class of 2025</li>
-  <li>Justin Kwaak - MAE Ctrls & Robotics (MC34) - Class of 2025</li>
+  <li>Justin Kwak - MAE Ctrls & Robotics (MC34) - Class of 2025</li>
   <li>John Liu - Electrical Engineering (EC27) - Class of 2024</li>
   <li>Patrick Choe - Extension - Class of (unknown)</li>
 </ul>
