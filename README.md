@@ -10,7 +10,7 @@
   </a>
 <h3>MAE-ECE 148 Final Project</h3>
 <p>
-Team 1 Winter 2023
+Team 1 Winter 2024
 </p>
 </div>
 
