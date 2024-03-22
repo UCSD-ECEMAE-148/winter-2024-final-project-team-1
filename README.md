@@ -27,7 +27,7 @@ Team 1 Winter 2024
     <li><a href="#final-project">Final Project</a></li>
       <ul>
         <li><a href="#final-project-documentation">Final Project Documentation</a></li>
-        <li><a href="#autonomous-drifting">Autonomous Drifting: (Insert Video)</a></li>
+        <li><a href="#autonomous-drifting:">Autonomous Drifting: (Insert Video)</a></li>
       </ul>
     <li><a href="#robot-design">Robot Design</a></li>
       <ul>
